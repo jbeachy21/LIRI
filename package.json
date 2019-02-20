@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0",
+    "install": "^0.12.2",
+    "node-spotify-api": "^1.0.7",
+    "moment": "^2.24.0",
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbeachy21/LIRI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbeachy21/LIRI/issues"
+  },
+  "homepage": "https://github.com/jbeachy21/LIRI#readme"
+}
