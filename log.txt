@@ -2,3 +2,126 @@
 /usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,sure,sure
 concert-this
 /usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,sure,sure
+spotify-this-song,"I Want it That Way"concert-this
+movie-this
+movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,Bohemian,Rhapsodymovie-this
+movie-this
+movie-this,"Pulp Fiction"
+concert-this
+concert-this,"The Who"
+concert-this,"The Who"
+spotify-this-songspotify-this-song,"Baba O'Riley"spotify-this-song,"Baba O'Riley"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,baba,o,rileyspotify-this-song,"Teenage Wasteland"spotify-this-song,"We will rock you"spotify-this-song,"We will rock you"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,we,will,rock,you/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-songspotify-this-song,"We will rock you"spotify-this-song,"I Want it that way"spotify-this-song,"I Want it that way"spotify-this-song,"I Want it that way"movie-this,"Remember the Titans"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,baba,o,riley/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,baba,o,riley,the,who/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,teenage,wastelandmovie-this,Remember the Titans
+movie-this,"Remember the Titans"
+movie-this,"Remember the Titans"
+movie-this,"Remember the Titans"
+movie-this,"Remember the Titans",,"Remember the Titans"
+movie-this,"Remember the Titans",,"Remember the Titans"
+spotify-this-song,"Bab O Riley",,"Bab O Riley"spotify-this-song,"Baba O Riley",,"Baba O Riley"spotify-this-song,"Bohemian Rhapsody",,"Bohemian Rhapsody"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,"Bohemian Rhapsody"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,"The Shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"Ariana Grande"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,The,Who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,"The Shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,"The Shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Turtles"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,the,who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,the,turtles
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"The Turtles"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,the,sign/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,the,sign,ace,of,base/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,spotify-this-song,The sign ace of base/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,movie-this,The shawshank redemption
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,Sure sure
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,Sure sure
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"Sure sure"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,"Heart"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,the,who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,the,who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri.js,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,the,who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,the,shining
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,bohemian,rhapsody/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,the,who
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,the,shining
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,bohemian,rhapsody/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,bohemian,rhapsody/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"Mission impossible"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"I want it that way"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"the shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"bohemian rhapsody"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"THE WHO"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"the shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"i want it that way"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"the who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"young the giant"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,young,the,giant
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,young,the,giant
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"Pulp Fiction"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"Bohemian Rhapsody"
