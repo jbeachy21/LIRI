@@ -6,7 +6,6 @@ var fs = require("fs");
 var spotify = new Spotify(keys.spotify);
 var axios = require("axios");
 var moment = require("moment");
-
 var inputString = process.argv;
 
 // Parses the command line argument to capture the "command" (concert-this, spotify-this-song, movie-this, do-what-it-says) and the option
@@ -67,9 +66,11 @@ function bandIsInTown() {
         for (var i = 0; i<response.data.length; i++) {
             time = moment(response.data[i].datetime).format('MM/DD/YYYY');
             
+            //console.log(response.data);
+            
             //Venue name
             console.log("________________________________________");
-            //console.log(response.data[i].lineup[0]);
+            console.log(response.data[i].lineup[0]);
             console.log(response.data[i].lineup[0] + " is playing at " + response.data[i].venue.name); 
             console.log("Latitude: " + response.data[i].venue.latitude);
             console.log("Longitude: " + response.data[i].venue.longitude);
@@ -158,17 +159,14 @@ function doWhatItSays() {
         else {
             switch (command) {
                 case "concert-this":
-                    //inputString[3] = "Sure sure";
                     bandIsInTown();
                     break;
 
                 case "spotify-this-song":
-                    //inputString[3] = "The sign ace of base";
                     SpotifySearch();
                     break;
 
                 case "movie-this":
-                    //inputString[3] = "The shawshank redemption";
                     OMdbSearch()
                     break;
             }

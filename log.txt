@@ -124,4 +124,20 @@ spotify-this-song,"Bab O Riley",,"Bab O Riley"spotify-this-song,"Baba O Riley",,
 /usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,young,the,giant
 /usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,young,the,giant
 /usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"Pulp Fiction"
-/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"Bohemian Rhapsody"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,spotify-this-song,"Bohemian Rhapsody"/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"The Who"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Ariana Grande"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,"Muse"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,Muse
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,Muse
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,movie-this,"The shining"
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this,Muse
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
+/usr/local/bin/node,/Users/jbeachy/Desktop/LIRI/liri,concert-this
