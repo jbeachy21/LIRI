@@ -37,7 +37,7 @@ node liri.js do-what-it-says
 
 ![Spotify Demo](./ScreenCapture/spotify_this_song.gif)
 
-### Do What it Says
+###Command from File (do-what-it-says)
 
 ![Do What it Says Command](./ScreenCapture/DoWhatItSays/spotify_this_song_search.gif)
 
