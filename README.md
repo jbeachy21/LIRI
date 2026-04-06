@@ -35,6 +35,10 @@ node liri.js do-what-it-says
 
 ### Spotify Search
 
-![Spotify Demo](./ScreenCapture/spotify_this.gif)
+![Spotify Demo](./ScreenCapture/spotify_this_song.gif)
+
+### Do What it Says
+
+![Do What it Says Command](./ScreenCapture/DoWhatItSays/spotify_this_song_search.gif)
 
 
