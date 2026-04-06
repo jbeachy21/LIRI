@@ -1,2 +1,24 @@
 # LIRI
-This project uses Node.js to create a command line interface (CLI). Four commands, concert-this, movie-this, spotify-this-song, and do-what-it-says, are used to access 3 different APIs and their data.
+
+## Overview
+LIRI is a Node.js command-line assistant that executes simple text commands to retrieve information from external APIs. It routes user input to different services (concerts, movies, and music) and formats the results for quick terminal output.
+
+## Features
+- Look up upcoming concerts for an artist
+- Retrieve movie details and ratings
+- Search for song information via Spotify
+- Execute commands from a file
+
+## Tech Stack
+- Node.js
+- JavaScript
+- Axios
+- dotenv
+- Command-line interface (CLI)
+
+## Commands
+```bash
+node liri.js concert-this <artist>
+node liri.js movie-this <movie>
+node liri.js spotify-this-song <song>
+node liri.js do-what-it-says
