@@ -3,6 +3,8 @@
 ## Overview
 LIRI is a Node.js command-line assistant that executes simple text commands to retrieve information from external APIs. It routes user input to different services (concerts, movies, and music) and formats the results for quick terminal output.
 
+This project demonstrates command-line interface design, API integration, and handling multiple execution paths within a single Node.js application.
+
 ## Features
 - Look up upcoming concerts for an artist
 - Retrieve movie details and ratings
