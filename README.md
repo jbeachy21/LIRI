@@ -22,22 +22,18 @@ node liri.js concert-this <artist>
 node liri.js movie-this <movie>
 node liri.js spotify-this-song <song>
 node liri.js do-what-it-says
-
+```
 
 ## Demo
 
 ### Concert Lookup
-![Concert Demo](./ScreenCapture/concert_this_default.gif)
-
 ![Concert Demo](./ScreenCapture/concert_this.gif)
 
 ### Movie Lookup
-![Movie Demo](./ScreenCapture/movie_this_default.gif)
 
 ![Movie Demo](./ScreenCapture/movie_this.gif)
 
 ### Spotify Search
-![Spotify Demo](./ScreenCapture/spotify_this_default.gif)
 
 ![Spotify Demo](./ScreenCapture/spotify_this.gif)
 
